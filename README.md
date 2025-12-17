@@ -24,6 +24,7 @@ This project aims to evaluate whether technical indicator–based stock trading 
    Use a tool like pip or poetry to install dependencies:
    pip install uv
    ```
+   ```
    uv --version
    uv init
    uv add package name
